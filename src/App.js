@@ -5,7 +5,7 @@ function App() {
     <>
       <h1>convert</h1>
       <CurrencyRow />
-      <div>=</div>
+      <div className='equals'>=</div>
       <CurrencyRow />
     </>
   );
